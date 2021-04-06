@@ -1,3 +1,9 @@
+''' 
+    * Rock, Paper, Scissor Game with Python.
+    * @author Sachin Chhetri <sachinchhetri202@gmail.com>
+    * Use of Random, creating functions, if/elif clause, and calling a function.  
+'''
+
 import random
 
 
